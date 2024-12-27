@@ -1,0 +1,5 @@
+/home/stud-13/NigarCabrayilova/ExampleGit/qaws/cmake-build-debug/CMakeFiles/library.dir
+/home/stud-13/NigarCabrayilova/ExampleGit/qaws/cmake-build-debug/CMakeFiles/main_program.dir
+/home/stud-13/NigarCabrayilova/ExampleGit/qaws/cmake-build-debug/CMakeFiles/tests.dir
+/home/stud-13/NigarCabrayilova/ExampleGit/qaws/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stud-13/NigarCabrayilova/ExampleGit/qaws/cmake-build-debug/CMakeFiles/rebuild_cache.dir
